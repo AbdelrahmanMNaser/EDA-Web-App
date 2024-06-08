@@ -10,7 +10,7 @@ st.set_page_config (page_title="Automated EDA", page_icon="📊")
 # Create a menu for selecting pages
 page = option_menu(
     menu_title= None,
-    options=["Home", "About", "Upload", "View", "Clean", "Viz"],
+    options=["Home", "About", "Upload", "View", "Clean", "Visualize"],
     icons=["house", "file-person-fill", "upload", "binoculars", "stars", "clipboard-data-fill"],
     menu_icon="cast",
     default_index=0,
