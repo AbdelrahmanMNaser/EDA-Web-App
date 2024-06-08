@@ -22,16 +22,7 @@ To get started with the EDA App:
 ```shell streamlit run app.py```
 The app will launch in your default web browser, ready for use.
 
-
 Or simply vist the website: **_https://eda-web-app.streamlit.app_**
-
-# How to Use
-Follow these simple steps to conduct EDA:
-
-Upload your data file using the provided interface.
-View the dataset in the app and assess its initial state.
-Clean your data with our easy-to-use options for a more accurate analysis.
-Visualize your data and discover the story it tells.
 
 # Contributions
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
