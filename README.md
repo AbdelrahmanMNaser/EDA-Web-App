@@ -27,8 +27,8 @@ Or simply vist the website: **_https://eda-web-app.streamlit.app_**
 # Contributions
 Contributions are welcome! If you have suggestions or improvements, please fork the repository and submit a pull request.
 
-License
+# License
 This project is licensed under the GPL V3.0 License - see the LICENSE.md file for details.
 
-Acknowledgments
+# Acknowledgments
 Streamlit - For providing an amazing framework that makes data apps possible.
